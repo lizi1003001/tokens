@@ -1,0 +1,11 @@
+{
+ "name": "Merrill Lynch Blockcoin",
+ "website": "http://china.meilinchina.net/",
+ "description": "Blockchain technology serves as a representative of physical and financial cycles, providing the optimal answer for ushering in a new era of web3.",
+ "explorer": "https://bscscan.com/token/0x5765dd72f160A8033d7c7af9193B103F73cDcf45",
+ "type": "BEP20",
+ "symbol": "MLB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5765dd72f160A8033d7c7af9193B103F73cDcf45"
+}
